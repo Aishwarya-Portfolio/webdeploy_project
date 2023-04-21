@@ -139,7 +139,7 @@ export PATH
 	
 ![image](https://user-images.githubusercontent.com/91592578/233715253-65cdc9e0-c5a6-4e84-8808-bc292efc5f34.png)
 
-### INTEGRATE TOMCAT IN CI/CD PIPELINE
+### INTEGRATE TOMCAT WITH CI/CD PIPELINE
 
 1. Setup Tomcat Server
 2. Setup a Linux EC2 Instance
